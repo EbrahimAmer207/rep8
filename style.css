@@ -1,0 +1,15 @@
+
+
+body{
+    height: 5000px;
+}
+
+.navbar{
+    position: fixed;
+    width: 100%;
+}
+
+.ahmed{
+    background-color: red !important;
+    transition: all 1s linear;
+}
